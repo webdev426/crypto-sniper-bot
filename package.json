@@ -1,0 +1,25 @@
+{
+  "name": "snipr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ethers": "^5.5.1",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zookyy/bsc-sniper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zookyy/bsc-sniper/issues"
+  },
+  "homepage": "https://github.com/zookyy/bsc-sniper#readme"
+}
